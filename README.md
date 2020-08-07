@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there 👋, Under heavy construction but I'll Be Back!
+
+<a href="https://www.linkedin.com/in/mlindholm3/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://www.instagram.com/mikeylholm" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=plastic&logo=instagram&logoColor=white" alt="Instagram"></a>
 
 <!--
 **MikeyLHolm/MikeyLHolm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,4 +16,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
 -->
