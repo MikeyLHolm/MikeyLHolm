@@ -8,7 +8,7 @@
 - Guitar & backing vocals @ [Angel Sword](facebook.com/angelswordmetal/)
 
 ## :hammer: Currently working on...
-- Working on final Hive project before First Internship.
+- ~~Working on final Hive project before First Internship.~~[Completed 1.10.2020]
 - Looking for a 4-6 month long internship position starting in ~October.
 - [Full Stack Open 2020](https://fullstackopen.com/en/) @ University of Helsinki.
 - [Mastering Data Structures and Algorithms with C and C++](https://www.udemy.com/course/datastructurescncpp/) @ Udemy
