@@ -5,7 +5,7 @@
 
 ## :japanese_ogre: Who am I and what am I doing?
 - Studying programming @ [Hive Helsinki](https://www.hive.fi/en/)
-- Guitar & backing vocals @ [Angel Sword](facebook.com/angelswordmetal/)
+- Guitar & backing vocals @ [Angel Sword](https://www.facebook.com/angelswordmetal/)
 
 ## :hammer: Currently working on...
 - ~~Working on final Hive project before First Internship.~~[Completed 1.10.2020]
