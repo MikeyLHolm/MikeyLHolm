@@ -8,13 +8,7 @@
 - Guitar & backing vocals @ [Angel Sword](https://www.facebook.com/angelswordmetal/)
 
 ## :hammer: Currently working on...
-- ~~Working on final Hive project before First Internship.~~[Completed 1.10.2020]
-- Looking for a 4-6 month long internship position starting in ~October.
-- [Full Stack Open 2020](https://fullstackopen.com/en/) @ University of Helsinki.
-- [Mastering Data Structures and Algorithms with C and C++](https://www.udemy.com/course/datastructurescncpp/) @ Udemy
-- Writing some new tunes for my band.
-- Getting back into track and field.
-- This Read.me and the possible bells and whistles.
+- Junior Dev position & Hive's first internship at F-Secure
 
 <!--
 **MikeyLHolm/MikeyLHolm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
