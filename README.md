@@ -8,7 +8,7 @@
 - Guitar & backing vocals @ [Angel Sword](https://www.facebook.com/angelswordmetal/)
 
 ## :hammer: Currently working on...
-- Junior Dev position & Hive's first internship at F-Secure
+- Junior Dev at WithSecure
 
 <!--
 **MikeyLHolm/MikeyLHolm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
