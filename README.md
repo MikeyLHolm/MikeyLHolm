@@ -4,11 +4,13 @@
 <a href="https://www.instagram.com/mikeylholm" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=plastic&logo=instagram&logoColor=white" alt="Instagram"></a>
 
 ## :japanese_ogre: Who am I and what am I doing?
-- Studying programming @ [Hive Helsinki](https://www.hive.fi/en/)
+- Junior Dev @ [WithSecure](https://www.withsecure.com/)
+- Alumni @ [Hive Helsinki](https://www.hive.fi/en/)
 - Guitar & backing vocals @ [Angel Sword](https://www.facebook.com/angelswordmetal/)
+- Veteran sprinter (60-200m)
 
 ## :hammer: Currently working on...
-- Junior Dev at WithSecure
+- ...
 
 <!--
 **MikeyLHolm/MikeyLHolm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
