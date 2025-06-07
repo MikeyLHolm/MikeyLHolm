@@ -1,7 +1,6 @@
 ### Hi there 👋, Under construction but I'll Be Back!
 
 <a href="https://www.linkedin.com/in/mlindholm3/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://www.instagram.com/mikeylholm" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=plastic&logo=instagram&logoColor=white" alt="Instagram"></a>
 
 ## :japanese_ogre: Who am I and what am I doing?
 - Junior Dev @ [WithSecure](https://www.withsecure.com/)
